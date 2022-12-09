@@ -1,4 +1,4 @@
-#!/bin/bash
+      #!/bin/bash
 #
 # Copyright (C) 2020 The LineageOS Project
 # Copyright (C) 2020 Paranoid Android
